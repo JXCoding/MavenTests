@@ -1,0 +1,4 @@
+name: MavenTests
+version: 1.0.0
+main: de.jxson.maventests.NMSMain
+author: Jason
